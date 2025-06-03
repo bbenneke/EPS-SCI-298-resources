@@ -4,7 +4,7 @@ Here is a non-exhaustive list of useful resources for topics covered in the EPS-
 
 The links are divided by topic. They may include Python packages, books, articles, and any other resources useful for using or further exploring the concepts covered in the course.
 
-Feel free to add resources! To do so, follow the instructions [here](AJOUTS.md).
+Feel free to add resources! To do so, follow the instructions [here](adding.md).
 
 <!-- toc -->
 

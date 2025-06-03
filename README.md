@@ -9,28 +9,20 @@ Feel free to add resources! To do so, follow the instructions [here](adding.md).
 <!-- toc -->
 
 - [Bayesian inference](#inference-bayesienne)
-* [Markov Chain Monte Carlo (MCMC)](#markov-chain-monte-carlo-mcmc)
-* [Nested sampling](#nested-sampling)
-* [Probabilistic programming](#probabilistic-programming)
-
+  * [Markov Chain Monte Carlo (MCMC)](#markov-chain-monte-carlo-mcmc)
+  * [Nested sampling](#nested-sampling)
+  * [Probabilistic programming](#probabilistic-programming)
 - [Machine Learning](#machine-learning)
-* [Gaussian processes (GPs)](#gaussian-processes-gps)
-* [Deep learning](#deep-learning)
-* [Tensor computing libraries](#tensor-computing-libraries)
-* [Artificial neural networks](#artificial-neural-networks)
-  
+  * [Gaussian processes (GPs)](#gaussian-processes-gps)
+  * [Deep learning](#deep-learning)
+  * [Tensor computing libraries](#tensor-computing-libraries)
+  * [Artificial neural networks](#artificial-neural-networks)
 - [Applications](#applications)
-* [Astronomy](#astronomy)
-* [Particle physics](#particle-physics)
-* [Plasma physics](#plasma-physics)
-* [Biophysics](#biophysics)
-* [Materials physics](#materials-physics)
-  
 - [Software development tools](#software-development-tools)
-* [Git](#git)
-* [Python environment](#python-environment)
-* [Development environments (IDEs) and text editors](#development-environments-ides-and-text-editors)
-* [Other](#other)
+  * [Git](#git)
+  * [Python environment](#python-environment)
+  * [Development environments (IDEs) and text editors](#development-environments-ides-and-text-editors)
+  * [Other](#other)
 
 <!-- tocstop -->
 

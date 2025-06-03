@@ -12,17 +12,20 @@ Feel free to add resources! To do so, follow the instructions [here](AJOUTS.md).
 * [Markov Chain Monte Carlo (MCMC)](#markov-chain-monte-carlo-mcmc)
 * [Nested sampling](#nested-sampling)
 * [Probabilistic programming](#probabilistic-programming)
+
 - [Machine Learning](#machine-learning)
 * [Gaussian processes (GPs)](#gaussian-processes-gps)
 * [Deep learning](#deep-learning)
 * [Tensor computing libraries](#tensor-computing-libraries)
 * [Artificial neural networks](#artificial-neural-networks)
+  
 - [Applications](#applications)
 * [Astronomy](#astronomy)
 * [Particle physics](#particle-physics)
 * [Plasma physics](#plasma-physics)
 * [Biophysics](#biophysics)
 * [Materials physics](#materials-physics)
+  
 - [Software development tools](#software-development-tools)
 * [Git](#git)
 * [Python environment](#python-environment)
@@ -104,8 +107,6 @@ Libraries that implement calculations similar to NumPy, but optimized for GPUs a
 
 The following sections include resources specific to different areas
 of physics. Most of them use other resources mentioned above.
-
-### Astronomy
 
 - [exoplanet](https://docs.exoplanet.codes/en/latest/) - Probabilistic modeling of exoplanet orbits with PyMC
 - [jaxoplanet](https://jax.exoplanet.codes/en/latest/) - Like `exoplanet`, but with JAX
